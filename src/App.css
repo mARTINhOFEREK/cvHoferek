@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "FiraCodeiScript-Regular";
+  src: local("FiraCodeiScript-Regular"),
+    url(./fonts/FiraCodeiScript-Regular.ttf) format("ttf"),
+    url(./fonts/FiraCodeiScript-Regular.woff) format("woff"),
+    url(./fonts/FiraCodeiScript-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "FiraCodeiScript-Italic";
+  src: local("FiraCodeiScript-Italic"),
+    url(./fonts/FiraCodeiScript-Italic.ttf) format("ttf"),
+    url(./fonts/FiraCodeiScript-Italic.woff) format("woff"),
+    url(./fonts/FiraCodeiScript-Italic.woff2) format("woff2");
+}
+
+.App {
+  font-family: FiraCodeiScript-Regular;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(37, 41, 48, 1);
+}
+
+::-webkit-scrollbar-track {
+  /* background: transparent; */
+  background: #fff;
+}
