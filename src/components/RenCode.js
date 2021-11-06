@@ -150,7 +150,7 @@ export const RenComment = (props) => {
     <div>
       <Item iColor={commentCodeColor}>&#47;&#42;&nbsp;</Item>
       <a
-        href="https://github.com/stovnik/cvecko"
+        href="https://github.com/stovnik/cvHoferek"
         target="_blank"
         rel="noreferrer noopener"
       >

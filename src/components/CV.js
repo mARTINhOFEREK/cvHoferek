@@ -39,7 +39,8 @@ const CV = () => {
         <RenImport im="MartinHoferek" fr="parents❤️" />
         <RenImport im={degree} fr="vut_brno" />
         <br />
-        <RenFunction fName="CV" fExp fProps={["neco", "neco"]}>
+        {/* <RenFunction fName="CV" fExp fProps={["neco", "neco"]}> */}
+        <RenFunction fName="CV" fExp>
           <RenComponent
             cName="div"
             cTab="40px"
