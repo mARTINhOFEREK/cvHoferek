@@ -5,6 +5,7 @@ import { useState } from "react"
 import useStore from "./store"
 /* Assets */
 import profile from "./profile.png"
+import profile2 from "./profile.webp"
 import arrow_anim from "./arrow_anim.svg"
 /* Components */
 import CV from "./components/CV"
@@ -37,7 +38,7 @@ const App = () => {
           <img src={arrow_anim} alt="arrow animation" />
         </Right>
         <Image>
-          <img src={profile} alt="profile" />
+          <img src={profile2} alt="profile" />
         </Image>
       </Main>
     </div>
