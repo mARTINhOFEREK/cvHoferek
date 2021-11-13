@@ -2,7 +2,7 @@
 
 This project was created to get a job as a webdeveloper.
 
-Link on website: [Hoferek CV](https://cvecko1.netlify.app/)
+Link on website: [Hoferek CV](https://www.martinhoferekcv.cz/)
 
 ### Used technologies
 
@@ -18,4 +18,3 @@ The technologies used in the project:
 ### Used fonts
 
 * [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript)
-* [Cascadia Code](https://github.com/microsoft/cascadia-code)
